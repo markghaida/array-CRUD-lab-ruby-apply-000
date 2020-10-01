@@ -33,10 +33,10 @@ end
 
 def retrieve_first_element_from_array(array)
   array = ["wow",2,"am","arrays!"]
-  puts array[0]
+  puts array[index]
 end
 
 def retrieve_last_element_from_array(array)
   array = [1,2,3,"arrays!"]
-  puts array[3]
+  puts array[index]
 end
